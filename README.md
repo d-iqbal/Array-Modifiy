@@ -1,1 +1,2 @@
-# Array-Modifiy
+# array-visualizer
+Array Visualizer Program
